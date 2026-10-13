@@ -504,6 +504,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Iconscout](https://iconscout.com/) : Over 2.2 Million+ Design Assets,  Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations.  Over 3000+ assets added every day. Integrated plugins, tools, editors, and more.
 - [Json API App](https://www.jsonapi.co/) : Single repository for everything you need to build better products as a developer. API, DB, Queue, Server, Webhooks, Bin, Tools, Podcasts etc. Everything you need to build super apps that our world needs.
 - [Library or micro code solutions](https://onelinerhub.com/) : Community library of micro code pieces for popular issues.
+- [readgzh](https://readgzh.site) : Turn any WeChat Official Account article link into clean, AI-readable text or Markdown; REST API and a hosted MCP server, 30 free credits/day
+- [FaviconDL](https://favicondl.com/) : Download any website's favicon in ICO, PNG, SVG and Apple touch icon sizes, or generate one from an image; free, no signup
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
